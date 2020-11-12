@@ -1,3 +1,5 @@
 RENCANA JP
-- Belajar web framework (Django)
+- Belajar Web Programming
+  * python
+  * Python framework (Django)
 - Blog
