@@ -1,0 +1,5 @@
+RENCANA JP
+- Belajar Web Programming
+  * python
+  * Python framework (Django)
+- Blog
